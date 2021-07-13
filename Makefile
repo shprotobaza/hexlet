@@ -1,6 +1,6 @@
 test:
-        cd app && npx jest tests/root.test.js
+	npx jest tests/root.test.js
 
 install:
-        npm install
+	npm install
 
